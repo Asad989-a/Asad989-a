@@ -76,23 +76,6 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="48" alt="Streamlit" />
 </p>
 
-
-
-
-## 💻 The Toolbox: Madre Terra Edition #3416
-
-<div align="center">
-  
-  <h3><i>A custom art piece by <a href="https://www.linkedin.com/posts/creds-studio_share2inspire-communitylove-feature-activity-7260485577664323584-eHTy?utm_source=social_share_video_v2&utm_medium=android_app&utm_campaign=copy_link/">Creds Studio</a> celebrating my GitHub Skills, Projects, and Collaborations Journey</i></h3>
-  
-  <p style="font-size: 1.1em; line-height: 1.6;">
-    
-    "Your home. A sacred space. The sanctuary of code. The keeper of innovation. A skill scriptorium. Nourishing soil of synergy. Planting trees of collaboration. Mastering tools of craft. Connecting harmony of mind. Line by line. Threads of progress entwine. Boundless potential unfolds. Together."
-    
-  </p>
-</div>
-
-
 ## 🎯 LeetCode Stats & DSA
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/Asad_Ullah_Khan?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
