@@ -84,7 +84,7 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asadullahkhan&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asad989-a&theme=react-dark&hide_border=true" width="100%"/>
 </div>
 
 <p align="center">
