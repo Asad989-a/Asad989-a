@@ -103,16 +103,16 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 ## 🤝 Let's Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fareeha-amir-241495289/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://leetcode.com/u/Fareeha_Amir/" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
-  <a href="https://lablab.ai/u/@Fareeha_Amir" target="_blank">
+  <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/lablab.ai-%23000000.svg?&style=for-the-badge&logo=lab&logoColor=white"/>
   </a>
-  <a href="mailto:fareeha03amir@gmail.com">
+  <a href="mailto:#">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
