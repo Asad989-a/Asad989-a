@@ -20,6 +20,10 @@ class AsadUllahKhan:
         print("Passionate about AI, teaching, and building innovative solutions!")
 ```
 
+<a href="https://github.com/Aqsaabbasi2690">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=Aqsaabbasi2690&data=followers,repositories,stars,commits&theme=nautilus">
+</a>
+
 ## 👨‍💻 About Me
 I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **AI, Machine Learning, and Competitive Programming**. I believe in **continuous learning** and sharing knowledge with others through **mentoring and education**.
 
