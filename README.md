@@ -85,6 +85,12 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
   <img src="https://leetcard.jacoblin.cool/asad-ullah-234?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
+ <p align="center">
+ <a href="https://github.com/Asad989-a"> 
+ <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Asad989-a&theme=algolia&hide_border=true" /> 
+ </a> 
+ </p>
+
 ## 📈 GitHub Analytics
 
 <div align="center">
