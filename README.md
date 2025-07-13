@@ -91,7 +91,6 @@ I'm a dedicated **Software Developer & AI Enthusiast** with a strong focus on **
 
  <a href="https://github.com/Asad989-a">
 <img  height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Asad989-a&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
-     <img  height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Asad989-a&langs_count=12&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" />
  </a>
 </p>
 
